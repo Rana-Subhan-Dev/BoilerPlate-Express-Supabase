@@ -114,7 +114,7 @@ LOG_LEVEL=debug
 1. **Fork** this repository.
 2. **Clone** your forked repository:
    ```sh
-   git clone https://github.com/your-username/BoilerPlate-Express-Supabase.git
+   git clone https://github.com/Rana-Subhan-Dev/BoilerPlate-Express-Supabase.git
    ```
 3. **Create a branch** for your feature:
    ```sh
